@@ -1,0 +1,801 @@
+{
+  "items": [
+    {
+      "description": "Simply press Command + F to search for a keyword. If you’re only interested in entries related to Vapor 3 or only to Vapor 4, you may use the automatically generated filtered lists available on the branch by visiting the links in this sentence. You may also find the legacy archived content in the folder.",
+      "items": [],
+      "title": "How to use"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MongoKitten",
+          "description": "MongoDB driver in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-20T16:52:15Z",
+            "owner": "orlandos-nl",
+            "repo": "MongoKitten",
+            "stars": 752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwifQL",
+          "description": "Easily build flexible and type-safe SQL with pure Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-02-12T05:20:01Z",
+            "owner": "SwifQL",
+            "repo": "SwifQL",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imperial",
+          "description": "Federated Authentication with OAuth providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-10-10T21:57:53Z",
+            "owner": "vapor-community",
+            "repo": "Imperial",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stripe Provider",
+          "description": "Stripe Provider for Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-08-21T15:01:37Z",
+            "owner": "vapor-community",
+            "repo": "stripe",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vapor Security Headers",
+          "description": "Harden Your Security Headers For Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-11-03T20:39:16Z",
+            "owner": "brokenhandsio",
+            "repo": "VaporSecurityHeaders",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentQuery",
+          "description": "Build complex raw SQL queries while still using Swift keypaths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-03-21T07:43:57Z",
+            "owner": "MihaelIsaev",
+            "repo": "FluentQuery",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vapor Mailgun Service",
+          "description": "A service to be used with Vapor to send emails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-10-09T10:05:00Z",
+            "owner": "vapor-community",
+            "repo": "mailgun",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S3",
+          "description": "Library for accessing the Amazon S3 service (and compatible) with support for most commonly used operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-09-09T12:13:12Z",
+            "owner": "LiveUI",
+            "repo": "S3",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guardian",
+          "description": "Modern rate-limiting middleware.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2018-07-16T07:09:45Z",
+            "owner": "Jinxiansen",
+            "repo": "Guardian",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MailCore",
+          "description": "Sending e-mails via SMTP, MailGun and SendGrid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-01-06T11:04:34Z",
+            "owner": "LiveUI",
+            "repo": "MailCore",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SendGrid Provider",
+          "description": "SendGrid-powered mail backend for Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-02-01T15:58:39Z",
+            "owner": "vapor-community",
+            "repo": "sendgrid",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatekeeper",
+          "description": "Rate limiting middleware for Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2021-09-03T08:35:36Z",
+            "owner": "ml-archive",
+            "repo": "gatekeeper",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ferno",
+          "description": "Vapor Firebase Realtime database provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-10-25T01:22:04Z",
+            "owner": "vapor-community",
+            "repo": "ferno",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrudRouter",
+          "description": "Automatic RESTful CRUD router generation for any Fluent Model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-11-27T01:08:18Z",
+            "owner": "twof",
+            "repo": "VaporCRUDRouter",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paginator",
+          "description": "Query pagination for Vapor and Fluent.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2020-04-24T08:26:29Z",
+            "owner": "ml-archive",
+            "repo": "paginator",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leaf Error Middleware",
+          "description": "Serve up custom 404 and server error pages for your Vapor App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-07-25T14:40:36Z",
+            "owner": "brokenhandsio",
+            "repo": "leaf-error-middleware",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pagination",
+          "description": "Simple Vapor 3 Pagination.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-02-25T18:53:12Z",
+            "owner": "vapor-community",
+            "repo": "pagination",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storage",
+          "description": "Eases the use of multiple storage and CDN services.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2020-10-08T09:45:36Z",
+            "owner": "ml-archive",
+            "repo": "storage",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meow",
+          "description": "An alternative codable ORM for MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2021-01-02T21:20:43Z",
+            "owner": "OpenKitten",
+            "repo": "Meow",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leaf Markdown",
+          "description": "Markdown renderer for Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-28T18:07:33Z",
+            "owner": "vapor-community",
+            "repo": "leaf-markdown",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APNS",
+          "description": "Vapor APNS for iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2024-06-05T23:02:49Z",
+            "owner": "vapor-community",
+            "repo": "apns",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lingo Vapor",
+          "description": "Vapor provider for Lingo – the Swift localization library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-10-29T11:56:53Z",
+            "owner": "vapor-community",
+            "repo": "Lingo-Vapor",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Cloud Provider",
+          "description": "Interact with Google Cloud Platform APIs from your Vapor project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-06-18T16:31:20Z",
+            "owner": "vapor-community",
+            "repo": "google-cloud",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSRF",
+          "description": "A package to add protection to Vapor against CSRF attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-12-23T13:00:09Z",
+            "owner": "vapor-community",
+            "repo": "CSRF",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JWT Keychain",
+          "description": "Easily scaffold a keychain using JWT for Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2021-11-08T13:14:03Z",
+            "owner": "ml-archive",
+            "repo": "keychain",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bugsnag",
+          "description": "Report errors with Bugsnag.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2023-01-31T20:12:38Z",
+            "owner": "ml-archive",
+            "repo": "bugsnag",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WKHTMLTOPDF",
+          "description": "Build PDF files from Leaf templates or web pages through the CLI tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-06-07T20:52:31Z",
+            "owner": "MihaelIsaev",
+            "repo": "wkhtmltopdf",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flash",
+          "description": "Flash messages between views.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2021-09-02T08:33:56Z",
+            "owner": "ml-archive",
+            "repo": "flash",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JWT Middleware",
+          "description": "Middleware to Authenticate and Authorize Requests in Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-10-20T18:16:31Z",
+            "owner": "skelpo",
+            "repo": "JWTMiddleware",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VaporExt",
+          "description": "A collection of Swift extensions for wide range of Vapor data types and classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-05-06T19:02:15Z",
+            "owner": "vapor-community",
+            "repo": "vapor-ext",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "API Error Middleware",
+          "description": "Vapor middleware for converting thrown errors to JSON responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-07-24T09:18:51Z",
+            "owner": "skelpo",
+            "repo": "APIErrorMiddleware",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vapor Test Tools",
+          "description": "Helper designed to make testing your endpoints in Vapor 3 pain-free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-12-20T14:18:21Z",
+            "owner": "LiveUI",
+            "repo": "VaporTestTools",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftyBeaver Provider",
+          "description": "SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-10-15T20:08:48Z",
+            "owner": "vapor-community",
+            "repo": "swiftybeaver-provider",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSV Framework",
+          "description": "A simple framework to read and write CSV files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-10-20T18:33:54Z",
+            "owner": "skelpo",
+            "repo": "CSV",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sugar",
+          "description": "A package of sugar for Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2020-02-25T12:30:21Z",
+            "owner": "ml-archive",
+            "repo": "sugar",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CouchDB Client",
+          "description": "Simple CouchDB client for Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-05T15:00:47Z",
+            "owner": "makoni",
+            "repo": "couchdb-swift",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleFileLogger",
+          "description": "A simple file logging provider for Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-03-28T18:45:09Z",
+            "owner": "hallee",
+            "repo": "vapor-simple-file-logger",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sanitize",
+          "description": "Powerful model extraction from Vapor JSON requests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2018-02-11T18:12:14Z",
+            "owner": "gperdomor",
+            "repo": "sanitize",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slugify",
+          "description": "Convenience for sluggifying your strings.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2019-12-09T08:32:25Z",
+            "owner": "ml-archive",
+            "repo": "slugify",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vapor reCAPTCHA",
+          "description": "Validate Google reCAPTCHAs using Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-05-08T00:34:29Z",
+            "owner": "gotranseo",
+            "repo": "vapor-recaptcha",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Submissions",
+          "description": "Conveniences for creating forms and validating (form) submissions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2021-09-02T08:52:22Z",
+            "owner": "ml-archive",
+            "repo": "submissions",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XMLCoding",
+          "description": "XML encoder and decoder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-08-25T11:16:16Z",
+            "owner": "LiveUI",
+            "repo": "XMLCoding",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S3 Storage",
+          "description": "Library for simple access to the Amazon S3 service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-05-10T01:17:24Z",
+            "owner": "anthonycastelli",
+            "repo": "s3-storage",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telesign Provider",
+          "description": "A Telesign provider for Vapor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-07T11:30:49Z",
+            "owner": "vapor-community",
+            "repo": "telesign-provider",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vapor Request Storage",
+          "description": "A replacement for which was available in Vapor 1 & 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-05-09T21:54:07Z",
+            "owner": "skelpo",
+            "repo": "vapor-request-storage",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local Storage",
+          "description": "Storage driver using local filesystem.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2018-05-11T02:07:33Z",
+            "owner": "gperdomor",
+            "repo": "local-storage",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sourcery",
+          "description": "Meta-programming for Swift, stop writing boilerplate code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-11T10:26:55Z",
+            "owner": "krzysztofzablocki",
+            "repo": "Sourcery",
+            "stars": 8017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ice",
+          "description": "A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-05-31T04:25:00Z",
+            "owner": "jakeheis",
+            "repo": "Ice",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ether",
+          "description": "A Command-Line Interface for the Swift Package Manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-12-01T23:05:17Z",
+            "owner": "Ether-CLI",
+            "repo": "Ether",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublimate",
+          "description": "Fast prototyping with synchronization and authentication based on Sourcery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-01-29T23:34:03Z",
+            "owner": "gabrielepalma",
+            "repo": "sublimate",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swifter",
+          "description": "A macOS tool to help you manage your Xcode projects and give you a quick access to DerivedData folder cleaning and management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-04-06T12:25:09Z",
+            "owner": "LiveUI",
+            "repo": "Swifter",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroku buildpack: curl with HTTP/2 support",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2018-02-13T12:43:00Z",
+            "owner": "vzsg",
+            "repo": "heroku-buildpack-curl-http2",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Education"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SteamPress",
+          "description": "A Blogging Engine and Platform written in Swift for use with the Vapor Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-12-03T10:56:22Z",
+            "owner": "brokenhandsio",
+            "repo": "SteamPress",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "User Manager Service",
+          "description": "A small, useful user manager made for production application setups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-07-30T17:29:18Z",
+            "owner": "skelpo",
+            "repo": "UserManager",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "Open-source Projects"
+    },
+    {
+      "description": "To the extent possible under law, Milan Vit has waived all copyright and related or neighbouring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:50.938Z",
+    "original_repository": "vapor-community/awesome-vapor",
+    "original_repository_sha": "d20ec5773e66768d87688257eab6d0620cf3663b",
+    "enhanced_repository": "enhansome/enhansome-vapor",
+    "enhanced_repository_description": null,
+    "title": "Awesome Vapor with stars"
+  }
+}
