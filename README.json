@@ -19,7 +19,7 @@
             "last_commit": "2026-05-20T16:52:15Z",
             "owner": "orlandos-nl",
             "repo": "MongoKitten",
-            "stars": 752
+            "stars": 753
           }
         },
         {
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:09:36.577Z",
+    "last_updated": "2026-08-17T07:34:20.174Z",
     "original_repository": "vapor-community/awesome-vapor",
     "original_repository_sha": "d20ec5773e66768d87688257eab6d0620cf3663b",
     "enhanced_repository": "enhansome/enhansome-vapor",
