@@ -25,7 +25,7 @@
 
 ## How to use
 
-Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md) ⭐ 1,286 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14 or only to [Vapor 4](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md) ⭐ 1,286 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14, you may use the automatically generated filtered lists available on the `filtered` branch by visiting the links in this sentence. You may also find the legacy archived content in the `legacy` folder.
+Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md) ⭐ 1,285 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14 or only to [Vapor 4](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md) ⭐ 1,285 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14, you may use the automatically generated filtered lists available on the `filtered` branch by visiting the links in this sentence. You may also find the legacy archived content in the `legacy` folder.
 
 ## Libraries
 
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
