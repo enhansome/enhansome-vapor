@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Simply press Command + F to search for a keyword. If you’re only interested in entries related to Vapor 3 or only to Vapor 4, you may use the automatically generated filtered lists available on the branch by visiting the links in this sentence. You may also find the legacy archived content in the folder.",
-      "items": [],
-      "title": "How to use"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50437650,
             "language": "Swift",
             "last_commit": "2026-05-20T16:52:15Z",
             "owner": "orlandos-nl",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161410190,
             "language": "Swift",
             "last_commit": "2025-02-12T05:20:01Z",
             "owner": "SwifQL",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110582331,
             "language": "Swift",
             "last_commit": "2025-10-10T21:57:53Z",
             "owner": "vapor-community",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88382271,
             "language": "Swift",
             "last_commit": "2023-08-21T15:01:37Z",
             "owner": "vapor-community",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81859842,
             "language": "Swift",
             "last_commit": "2024-11-03T20:39:16Z",
             "owner": "brokenhandsio",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136088168,
             "language": "Swift",
             "last_commit": "2020-03-21T07:43:57Z",
             "owner": "MihaelIsaev",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124623973,
             "language": "Swift",
             "last_commit": "2025-10-09T10:05:00Z",
             "owner": "vapor-community",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76037749,
             "language": "Swift",
             "last_commit": "2025-09-09T12:13:12Z",
             "owner": "LiveUI",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136892529,
             "language": "Swift",
             "last_commit": "2018-07-16T07:09:45Z",
             "owner": "Jinxiansen",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126837378,
             "language": "Swift",
             "last_commit": "2022-01-06T11:04:34Z",
             "owner": "LiveUI",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80089108,
             "language": "Swift",
             "last_commit": "2025-02-01T15:58:39Z",
             "owner": "vapor-community",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80074248,
             "language": "Swift",
             "last_commit": "2021-09-03T08:35:36Z",
             "owner": "ml-archive",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131674300,
             "language": "Swift",
             "last_commit": "2023-10-25T01:22:04Z",
             "owner": "vapor-community",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150809788,
             "language": "Swift",
             "last_commit": "2021-11-27T01:08:18Z",
             "owner": "twof",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77190206,
             "language": "Swift",
             "last_commit": "2020-04-24T08:26:29Z",
             "owner": "ml-archive",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104588421,
             "language": "Swift",
             "last_commit": "2022-07-25T14:40:36Z",
             "owner": "brokenhandsio",
@@ -239,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128463254,
             "language": "Swift",
             "last_commit": "2019-02-25T18:53:12Z",
             "owner": "vapor-community",
@@ -253,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 73427509,
             "language": "Swift",
             "last_commit": "2020-10-08T09:45:36Z",
             "owner": "ml-archive",
@@ -267,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78011987,
             "language": "Swift",
             "last_commit": "2021-01-02T21:20:43Z",
             "owner": "OpenKitten",
@@ -281,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66947019,
             "language": "Swift",
             "last_commit": "2026-07-28T18:07:33Z",
             "owner": "vapor-community",
@@ -295,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 127682280,
             "language": "Swift",
             "last_commit": "2024-06-05T23:02:49Z",
             "owner": "vapor-community",
@@ -309,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101421643,
             "language": "Swift",
             "last_commit": "2022-10-29T11:56:53Z",
             "owner": "vapor-community",
@@ -323,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133913088,
             "language": "Swift",
             "last_commit": "2024-06-18T16:31:20Z",
             "owner": "vapor-community",
@@ -337,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94946694,
             "language": "Swift",
             "last_commit": "2022-12-23T13:00:09Z",
             "owner": "vapor-community",
@@ -351,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77539274,
             "language": "Swift",
             "last_commit": "2021-11-08T13:14:03Z",
             "owner": "ml-archive",
@@ -365,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 74880071,
             "language": "Swift",
             "last_commit": "2023-01-31T20:12:38Z",
             "owner": "ml-archive",
@@ -379,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137555278,
             "language": "Swift",
             "last_commit": "2020-06-07T20:52:31Z",
             "owner": "MihaelIsaev",
@@ -393,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78045244,
             "language": "Swift",
             "last_commit": "2021-09-02T08:33:56Z",
             "owner": "ml-archive",
@@ -407,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130247966,
             "language": "Swift",
             "last_commit": "2021-10-20T18:16:31Z",
             "owner": "skelpo",
@@ -421,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142723598,
             "language": "Swift",
             "last_commit": "2019-05-06T19:02:15Z",
             "owner": "vapor-community",
@@ -435,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130408931,
             "language": "Swift",
             "last_commit": "2018-07-24T09:18:51Z",
             "owner": "skelpo",
@@ -449,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123197413,
             "language": "Swift",
             "last_commit": "2020-12-20T14:18:21Z",
             "owner": "LiveUI",
@@ -463,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91718440,
             "language": "Swift",
             "last_commit": "2019-10-15T20:08:48Z",
             "owner": "vapor-community",
@@ -477,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117293014,
             "language": "Swift",
             "last_commit": "2021-10-20T18:33:54Z",
             "owner": "skelpo",
@@ -491,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77596901,
             "language": "Swift",
             "last_commit": "2020-02-25T12:30:21Z",
             "owner": "ml-archive",
@@ -505,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174106644,
             "language": "Swift",
             "last_commit": "2026-08-05T15:00:47Z",
             "owner": "makoni",
@@ -519,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147949672,
             "language": "Swift",
             "last_commit": "2020-03-28T18:45:09Z",
             "owner": "hallee",
@@ -533,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 105166704,
             "language": "Swift",
             "last_commit": "2018-02-11T18:12:14Z",
             "owner": "gperdomor",
@@ -547,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77170220,
             "language": "Swift",
             "last_commit": "2019-12-09T08:32:25Z",
             "owner": "ml-archive",
@@ -561,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131501196,
             "language": "Swift",
             "last_commit": "2018-05-08T00:34:29Z",
             "owner": "gotranseo",
@@ -575,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 134822820,
             "language": "Swift",
             "last_commit": "2021-09-02T08:52:22Z",
             "owner": "ml-archive",
@@ -589,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132657635,
             "language": "Swift",
             "last_commit": "2025-08-25T11:16:16Z",
             "owner": "LiveUI",
@@ -603,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130749594,
             "language": "Swift",
             "last_commit": "2018-05-10T01:17:24Z",
             "owner": "anthonycastelli",
@@ -617,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98349388,
             "language": "Swift",
             "last_commit": "2026-03-07T11:30:49Z",
             "owner": "vapor-community",
@@ -631,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129775250,
             "language": "Swift",
             "last_commit": "2018-05-09T21:54:07Z",
             "owner": "skelpo",
@@ -645,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 129815209,
             "language": "Swift",
             "last_commit": "2018-05-11T02:07:33Z",
             "owner": "gperdomor",
@@ -656,7 +697,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -665,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76171100,
             "language": "Swift",
             "last_commit": "2026-06-11T10:26:55Z",
             "owner": "krzysztofzablocki",
@@ -679,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102137071,
             "language": "Swift",
             "last_commit": "2021-05-31T04:25:00Z",
             "owner": "jakeheis",
@@ -693,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92339567,
             "language": "Swift",
             "last_commit": "2018-12-01T23:05:17Z",
             "owner": "Ether-CLI",
@@ -707,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165563149,
             "language": "Swift",
             "last_commit": "2019-01-29T23:34:03Z",
             "owner": "gabrielepalma",
@@ -721,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128369854,
             "language": "Swift",
             "last_commit": "2018-04-06T12:25:09Z",
             "owner": "LiveUI",
@@ -735,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 99970149,
             "language": "Shell",
             "last_commit": "2018-02-13T12:43:00Z",
             "owner": "vzsg",
@@ -746,12 +793,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Education"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -760,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78314843,
             "language": "Swift",
             "last_commit": "2022-12-03T10:56:22Z",
             "owner": "brokenhandsio",
@@ -774,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131291948,
             "language": "Swift",
             "last_commit": "2019-07-30T17:29:18Z",
             "owner": "skelpo",
@@ -783,15 +827,10 @@
         }
       ],
       "title": "Open-source Projects"
-    },
-    {
-      "description": "To the extent possible under law, Milan Vit has waived all copyright and related or neighbouring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:21:12.489Z",
+    "last_updated": "2026-08-19T07:21:42.496Z",
     "original_repository": "vapor-community/awesome-vapor",
     "original_repository_sha": "d20ec5773e66768d87688257eab6d0620cf3663b",
     "enhanced_repository": "enhansome/enhansome-vapor",
