@@ -35,7 +35,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 * ![v3](img/vapor-3.png) [Stripe Provider](https://github.com/vapor-community/stripe-provider) ⭐ 185 | 🐛 1 | 🌐 Swift | 📅 2023-08-21 – Stripe Provider for Vapor.
 * ![v3](img/vapor-3.png) [Vapor Security Headers](https://github.com/brokenhandsio/VaporSecurityHeaders) ⭐ 154 | 🐛 0 | 🌐 Swift | 📅 2024-11-03 – Harden Your Security Headers For Vapor.
 * ![v3](img/vapor-3.png) [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) ⭐ 148 | 🐛 3 | 🌐 Swift | 📅 2020-03-21 – Build complex raw SQL queries while still using Swift keypaths.
-* ![v3](img/vapor-3.png) [Vapor Mailgun Service](https://github.com/vapor-community/VaporMailgunService) ⭐ 124 | 🐛 10 | 🌐 Swift | 📅 2025-10-09 – A service to be used with Vapor to send emails.
+* ![v3](img/vapor-3.png) [Vapor Mailgun Service](https://github.com/vapor-community/VaporMailgunService) ⭐ 124 | 🐛 11 | 🌐 Swift | 📅 2025-10-09 – A service to be used with Vapor to send emails.
 * ![v3](img/vapor-3.png) [S3](https://github.com/LiveUI/S3) ⭐ 104 | 🐛 20 | 🌐 Swift | 📅 2025-09-09 – Library for accessing the Amazon S3 service (and compatible) with support for most commonly used operations.
 * ![v3](img/vapor-3.png) [Guardian](https://github.com/Jinxiansen/Guardian) ⚠️ Archived – Modern rate-limiting middleware.
 * ![v3](img/vapor-3.png) [MailCore](https://github.com/LiveUI/MailCore) ⭐ 85 | 🐛 5 | 🌐 Swift | 📅 2022-01-06 – Sending e-mails via SMTP, MailGun and SendGrid.
