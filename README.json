@@ -15,7 +15,7 @@
             "last_commit": "2026-05-20T16:52:15Z",
             "owner": "orlandos-nl",
             "repo": "MongoKitten",
-            "stars": 753
+            "stars": 754
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 124623973,
             "language": "Swift",
-            "last_commit": "2025-10-09T10:05:00Z",
+            "last_commit": "2026-08-19T15:03:19Z",
             "owner": "vapor-community",
             "repo": "mailgun",
             "stars": 124
@@ -345,7 +345,7 @@
             "last_commit": "2024-06-18T16:31:20Z",
             "owner": "vapor-community",
             "repo": "google-cloud",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -830,7 +830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:21.212Z",
+    "last_updated": "2026-08-20T07:24:46.351Z",
     "original_repository": "vapor-community/awesome-vapor",
     "original_repository_id": 121792056,
     "original_repository_sha": "d20ec5773e66768d87688257eab6d0620cf3663b",

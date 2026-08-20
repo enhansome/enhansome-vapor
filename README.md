@@ -25,17 +25,17 @@
 
 ## How to use
 
-Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md) ⭐ 1,285 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14 or only to [Vapor 4](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md) ⭐ 1,285 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14, you may use the automatically generated filtered lists available on the `filtered` branch by visiting the links in this sentence. You may also find the legacy archived content in the `legacy` folder.
+Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md) ⭐ 1,286 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14 or only to [Vapor 4](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md) ⭐ 1,286 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14, you may use the automatically generated filtered lists available on the `filtered` branch by visiting the links in this sentence. You may also find the legacy archived content in the `legacy` folder.
 
 ## Libraries
 
-* ![v3](img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 753 | 🐛 24 | 🌐 Swift | 📅 2026-05-20 – MongoDB driver in Swift.
+* ![v3](img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 754 | 🐛 24 | 🌐 Swift | 📅 2026-05-20 – MongoDB driver in Swift.
 * ![v3](img/vapor-3.png) [SwifQL](https://github.com/MihaelIsaev/SwifQL) ⭐ 300 | 🐛 6 | 🌐 Swift | 📅 2025-02-12 – Easily build flexible and type-safe SQL with pure Swift.
 * ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) ⭐ 194 | 🐛 17 | 🌐 Swift | 📅 2025-10-10 – Federated Authentication with OAuth providers.
 * ![v3](img/vapor-3.png) [Stripe Provider](https://github.com/vapor-community/stripe-provider) ⭐ 185 | 🐛 1 | 🌐 Swift | 📅 2023-08-21 – Stripe Provider for Vapor.
 * ![v3](img/vapor-3.png) [Vapor Security Headers](https://github.com/brokenhandsio/VaporSecurityHeaders) ⭐ 154 | 🐛 0 | 🌐 Swift | 📅 2024-11-03 – Harden Your Security Headers For Vapor.
 * ![v3](img/vapor-3.png) [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) ⭐ 148 | 🐛 3 | 🌐 Swift | 📅 2020-03-21 – Build complex raw SQL queries while still using Swift keypaths.
-* ![v3](img/vapor-3.png) [Vapor Mailgun Service](https://github.com/vapor-community/VaporMailgunService) ⭐ 124 | 🐛 11 | 🌐 Swift | 📅 2025-10-09 – A service to be used with Vapor to send emails.
+* ![v3](img/vapor-3.png) [Vapor Mailgun Service](https://github.com/vapor-community/VaporMailgunService) ⭐ 124 | 🐛 10 | 🌐 Swift | 📅 2026-08-19 – A service to be used with Vapor to send emails.
 * ![v3](img/vapor-3.png) [S3](https://github.com/LiveUI/S3) ⭐ 104 | 🐛 20 | 🌐 Swift | 📅 2025-09-09 – Library for accessing the Amazon S3 service (and compatible) with support for most commonly used operations.
 * ![v3](img/vapor-3.png) [Guardian](https://github.com/Jinxiansen/Guardian) ⚠️ Archived – Modern rate-limiting middleware.
 * ![v3](img/vapor-3.png) [MailCore](https://github.com/LiveUI/MailCore) ⭐ 85 | 🐛 5 | 🌐 Swift | 📅 2022-01-06 – Sending e-mails via SMTP, MailGun and SendGrid.
@@ -51,7 +51,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 * ![v3](img/vapor-3.png) [Leaf Markdown](https://github.com/vapor-community/leaf-markdown) ⭐ 64 | 🐛 0 | 🌐 Swift | 📅 2026-07-28 – Markdown renderer for Vapor.
 * ![v3](img/vapor-3.png) [APNS](https://github.com/vapor-community/apns) ⚠️ Archived – Vapor APNS for iOS.
 * ![v3](img/vapor-3.png) [Lingo Vapor](https://github.com/vapor-community/Lingo-Vapor) ⭐ 59 | 🐛 1 | 🌐 Swift | 📅 2022-10-29 – Vapor provider for Lingo – the Swift localization library.
-* ![v3](img/vapor-3.png) [Google Cloud Provider](https://github.com/vapor-community/google-cloud-provider) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2024-06-18 – Interact with Google Cloud Platform APIs from your Vapor project.
+* ![v3](img/vapor-3.png) [Google Cloud Provider](https://github.com/vapor-community/google-cloud-provider) ⭐ 48 | 🐛 1 | 🌐 Swift | 📅 2024-06-18 – Interact with Google Cloud Platform APIs from your Vapor project.
 * ![v3](img/vapor-3.png) [CSRF](https://github.com/vapor-community/CSRF) ⭐ 44 | 🐛 2 | 🌐 Swift | 📅 2022-12-23 – A package to add protection to Vapor against CSRF attacks.
 * ![v3](img/vapor-3.png) [JWT Keychain](https://github.com/nodes-vapor/jwt-keychain) ⚠️ Archived – Easily scaffold a keychain using JWT for Vapor.
 * ![v3](img/vapor-3.png) [Bugsnag](https://github.com/nodes-vapor/bugsnag) ⚠️ Archived – Report errors with Bugsnag.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
