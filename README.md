@@ -64,7 +64,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 * ![v3](img/vapor-3.png) [SwiftyBeaver Provider](https://github.com/vapor-community/swiftybeaver-provider) ⭐ 33 | 🐛 1 | 🌐 Swift | 📅 2019-10-15 – SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework.
 * ![v3](img/vapor-3.png) [CSV Framework](https://github.com/skelpo/CSV) ⭐ 31 | 🐛 4 | 🌐 Swift | 📅 2021-10-20 – A simple framework to read and write CSV files.
 * ![v3](img/vapor-3.png) [Sugar](https://github.com/nodes-vapor/sugar) ⚠️ Archived – A package of sugar for Vapor.
-* ![v3](img/vapor-3.png) [CouchDB Client](https://github.com/makoni/couchdb-vapor) ⭐ 20 | 🐛 1 | 🌐 Swift | 📅 2026-08-05 – Simple CouchDB client for Vapor.
+* ![v3](img/vapor-3.png) [CouchDB Client](https://github.com/makoni/couchdb-vapor) ⭐ 20 | 🐛 0 | 🌐 Swift | 📅 2026-08-21 – Simple CouchDB client for Vapor.
 * ![v3](img/vapor-3.png) [SimpleFileLogger](https://github.com/hallee/vapor-simple-file-logger) ⭐ 18 | 🐛 0 | 🌐 Swift | 📅 2020-03-28 – A simple file logging provider for Vapor.
 * ![v3](img/vapor-3.png) [Sanitize](https://github.com/gperdomor/sanitize) ⚠️ Archived – Powerful model extraction from Vapor JSON requests.
 * ![v3](img/vapor-3.png) [Slugify](https://github.com/nodes-vapor/slugify) ⚠️ Archived – Convenience for sluggifying your strings.
@@ -78,7 +78,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 
 ## Tools
 
-* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,016 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,015 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
 * [Ice](https://github.com/jakeheis/Ice) ⭐ 386 | 🐛 3 | 🌐 Swift | 📅 2021-05-31 – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 * [Ether](https://github.com/Ether-CLI/Ether) ⭐ 95 | 🐛 6 | 🌐 Swift | 📅 2018-12-01 – A Command-Line Interface for the Swift Package Manager.
 * ![v3](img/vapor-3.png) [Sublimate](https://github.com/gabrielepalma/sublimate) ⭐ 64 | 🐛 0 | 🌐 Swift | 📅 2019-01-29 – Fast prototyping with synchronization and authentication based on Sourcery.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
