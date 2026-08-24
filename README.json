@@ -537,7 +537,7 @@
             "archived": false,
             "id": 174106644,
             "language": "Swift",
-            "last_commit": "2026-08-21T18:27:27Z",
+            "last_commit": "2026-08-24T08:49:09Z",
             "owner": "makoni",
             "repo": "couchdb-swift",
             "stars": 20
@@ -830,7 +830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:39:14.219Z",
+    "last_updated": "2026-08-24T14:13:10.546Z",
     "original_repository": "vapor-community/awesome-vapor",
     "original_repository_id": 121792056,
     "original_repository_sha": "d20ec5773e66768d87688257eab6d0620cf3663b",
