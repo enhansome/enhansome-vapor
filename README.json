@@ -830,9 +830,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:27:24.859Z",
-    "original_repository": "vapor-community/awesome-vapor",
-    "original_repository_id": 121792056,
+    "last_updated": "2026-08-27T12:07:47.958Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 121792056,
+      "language": "Ruby",
+      "last_commit": "2023-10-14T17:45:31Z",
+      "owner": "vapor-community",
+      "repo": "awesome-vapor",
+      "stars": 1286
+    },
     "original_repository_sha": "d20ec5773e66768d87688257eab6d0620cf3663b",
     "enhanced_repository": "enhansome/enhansome-vapor",
     "enhanced_repository_description": null,
