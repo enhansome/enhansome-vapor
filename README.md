@@ -44,7 +44,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 * ![v3](img/vapor-3.png) [Ferno](https://github.com/vapor-community/ferno) ⭐ 72 | 🐛 2 | 🌐 Swift | 📅 2023-10-25 – Vapor Firebase Realtime database provider.
 * ![v3](img/vapor-3.png) [CrudRouter](https://github.com/twof/VaporCRUDRouter) ⭐ 71 | 🐛 1 | 🌐 Swift | 📅 2021-11-27 – Automatic RESTful CRUD router generation for any Fluent Model.
 * ![v3](img/vapor-3.png) [Paginator](https://github.com/nodes-vapor/paginator) ⚠️ Archived – Query pagination for Vapor and Fluent.
-* ![v3](img/vapor-3.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) ⭐ 69 | 🐛 0 | 🌐 Swift | 📅 2022-07-25 – Serve up custom 404 and server error pages for your Vapor App.
+* ![v3](img/vapor-3.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) ⭐ 68 | 🐛 0 | 🌐 Swift | 📅 2022-07-25 – Serve up custom 404 and server error pages for your Vapor App.
 * ![v3](img/vapor-3.png) [Pagination](https://github.com/vapor-community/pagination) ⭐ 66 | 🐛 6 | 🌐 Swift | 📅 2019-02-25 – Simple Vapor 3 Pagination.
 * ![v3](img/vapor-3.png) [Storage](https://github.com/nodes-vapor/storage) ⚠️ Archived – Eases the use of multiple storage and CDN services.
 * ![v3](img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) ⚠️ Archived – An alternative codable ORM for MongoDB.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

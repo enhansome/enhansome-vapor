@@ -16,7 +16,8 @@
             "owner": "orlandos-nl",
             "repo": "MongoKitten",
             "stars": 754
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "SwifQL",
             "repo": "SwifQL",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "vapor-community",
             "repo": "Imperial",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "vapor-community",
             "repo": "stripe",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "brokenhandsio",
             "repo": "VaporSecurityHeaders",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "MihaelIsaev",
             "repo": "FluentQuery",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "vapor-community",
             "repo": "mailgun",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "LiveUI",
             "repo": "S3",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Jinxiansen",
             "repo": "Guardian",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "LiveUI",
             "repo": "MailCore",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "vapor-community",
             "repo": "sendgrid",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "ml-archive",
             "repo": "gatekeeper",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "vapor-community",
             "repo": "ferno",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "twof",
             "repo": "VaporCRUDRouter",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "ml-archive",
             "repo": "paginator",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -240,8 +255,9 @@
             "last_commit": "2022-07-25T14:40:36Z",
             "owner": "brokenhandsio",
             "repo": "leaf-error-middleware",
-            "stars": 69
-          }
+            "stars": 68
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "vapor-community",
             "repo": "pagination",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "ml-archive",
             "repo": "storage",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "OpenKitten",
             "repo": "Meow",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "vapor-community",
             "repo": "leaf-markdown",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "vapor-community",
             "repo": "apns",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "vapor-community",
             "repo": "Lingo-Vapor",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "vapor-community",
             "repo": "google-cloud",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "vapor-community",
             "repo": "CSRF",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "ml-archive",
             "repo": "keychain",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "ml-archive",
             "repo": "bugsnag",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "MihaelIsaev",
             "repo": "wkhtmltopdf",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "ml-archive",
             "repo": "flash",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "skelpo",
             "repo": "JWTMiddleware",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "vapor-community",
             "repo": "vapor-ext",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -466,7 +496,8 @@
             "owner": "skelpo",
             "repo": "APIErrorMiddleware",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -481,7 +512,8 @@
             "owner": "LiveUI",
             "repo": "VaporTestTools",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -496,7 +528,8 @@
             "owner": "vapor-community",
             "repo": "swiftybeaver-provider",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -511,7 +544,8 @@
             "owner": "skelpo",
             "repo": "CSV",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -526,7 +560,8 @@
             "owner": "ml-archive",
             "repo": "sugar",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -541,7 +576,8 @@
             "owner": "makoni",
             "repo": "couchdb-swift",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -556,7 +592,8 @@
             "owner": "hallee",
             "repo": "vapor-simple-file-logger",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -571,7 +608,8 @@
             "owner": "gperdomor",
             "repo": "sanitize",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -586,7 +624,8 @@
             "owner": "ml-archive",
             "repo": "slugify",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -601,7 +640,8 @@
             "owner": "gotranseo",
             "repo": "vapor-recaptcha",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -616,7 +656,8 @@
             "owner": "ml-archive",
             "repo": "submissions",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -631,7 +672,8 @@
             "owner": "LiveUI",
             "repo": "XMLCoding",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -646,7 +688,8 @@
             "owner": "anthonycastelli",
             "repo": "s3-storage",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -661,7 +704,8 @@
             "owner": "vapor-community",
             "repo": "telesign-provider",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -676,7 +720,8 @@
             "owner": "skelpo",
             "repo": "vapor-request-storage",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -691,7 +736,8 @@
             "owner": "gperdomor",
             "repo": "local-storage",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         }
       ],
       "title": "Libraries"
@@ -712,7 +758,8 @@
             "owner": "krzysztofzablocki",
             "repo": "Sourcery",
             "stars": 8018
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "jakeheis",
             "repo": "Ice",
             "stars": 386
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -742,7 +790,8 @@
             "owner": "Ether-CLI",
             "repo": "Ether",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -757,7 +806,8 @@
             "owner": "gabrielepalma",
             "repo": "sublimate",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -772,7 +822,8 @@
             "owner": "LiveUI",
             "repo": "Swifter",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -787,7 +838,8 @@
             "owner": "vzsg",
             "repo": "heroku-buildpack-curl-http2",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         }
       ],
       "title": "Tools"
@@ -808,7 +860,8 @@
             "owner": "brokenhandsio",
             "repo": "SteamPress",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         },
         {
           "node_type": "item",
@@ -823,14 +876,15 @@
             "owner": "skelpo",
             "repo": "UserManager",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T18:57:08.337Z"
         }
       ],
       "title": "Open-source Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:51:40.773Z",
+    "last_updated": "2026-08-28T18:57:08.337Z",
     "original_repository_info": {
       "archived": false,
       "id": 121792056,
