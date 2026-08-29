@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native MongoDB driver for Swift, written in Swift",
+            "homepage": null,
             "id": 50437650,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-05-20T16:52:15Z",
+            "open_issues": 24,
             "owner": "orlandos-nl",
             "repo": "MongoKitten",
-            "stars": 754
+            "stars": 754,
+            "topics": [
+              "database",
+              "mongodb",
+              "mongodb-driver",
+              "mongokitten",
+              "server-side-swift",
+              "swift",
+              "swift-package-manager",
+              "vapor"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -26,12 +40,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💎 A Swift DSL for type-safe, extensible, and transformable SQL queries.",
+            "homepage": null,
             "id": 161410190,
             "language": "Swift",
-            "last_commit": "2025-02-12T05:20:01Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:18:33Z",
+            "open_issues": 6,
             "owner": "SwifQL",
             "repo": "SwifQL",
-            "stars": 300
+            "stars": 300,
+            "topics": [
+              "dsl",
+              "mysql",
+              "postgresql",
+              "sql",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -42,12 +67,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Federated Authentication with OAuth providers",
+            "homepage": "https://swiftpackageindex.com/vapor-community/Imperial/documentation",
             "id": 110582331,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-10-10T21:57:53Z",
+            "open_issues": 17,
             "owner": "vapor-community",
             "repo": "Imperial",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "federated-identity",
+              "federated-social-web",
+              "hacktoberfest",
+              "imperial",
+              "oauth",
+              "spm",
+              "swift",
+              "swift-package-manager",
+              "swift4",
+              "vapor",
+              "vapor-3",
+              "vapor-4",
+              "vapor-provider"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -58,12 +102,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stripe library for Vapor",
+            "homepage": null,
             "id": 88382271,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-08-21T15:01:37Z",
+            "open_issues": 1,
             "owner": "vapor-community",
             "repo": "stripe",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "card",
+              "payment",
+              "stripe",
+              "stripe-api",
+              "swift",
+              "vapor",
+              "vapor-provider",
+              "vapor-service",
+              "vapor-stripe"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -74,12 +133,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Harden Your Security Headers For Vapor",
+            "homepage": null,
             "id": 81859842,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-11-03T20:39:16Z",
+            "open_issues": 0,
             "owner": "brokenhandsio",
             "repo": "VaporSecurityHeaders",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "brokenhands",
+              "security",
+              "server-side-swift",
+              "swift",
+              "swift-3",
+              "swift-framework",
+              "vapor",
+              "vapor-provider"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -90,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗃 Powerful and easy to use Swift Query Builder for Vapor 3.",
+            "homepage": null,
             "id": 136088168,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-03-21T07:43:57Z",
+            "open_issues": 3,
             "owner": "MihaelIsaev",
             "repo": "FluentQuery",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -106,12 +184,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📧 Service to assist with sending emails from Vapor apps",
+            "homepage": null,
             "id": 124623973,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-19T15:03:19Z",
+            "open_issues": 10,
             "owner": "vapor-community",
             "repo": "mailgun",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "email",
+              "mailgun",
+              "swift",
+              "vapor",
+              "vapor-3",
+              "vapor-4",
+              "vapor-service",
+              "vapor-swift"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -122,12 +214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "S3 Client written in Swift",
+            "homepage": null,
             "id": 76037749,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-09-09T12:13:12Z",
+            "open_issues": 20,
             "owner": "LiveUI",
             "repo": "S3",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -138,12 +235,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Service Side Swift：Vapor 3 based API Guardian Middleware. 🦁",
+            "homepage": null,
             "id": 136892529,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-07-16T07:09:45Z",
+            "open_issues": 0,
             "owner": "Jinxiansen",
             "repo": "Guardian",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "middleware",
+              "vapor",
+              "vapor3"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -154,12 +260,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emailing wrapper for Vapor 3 apps",
+            "homepage": null,
             "id": 126837378,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-01-06T11:04:34Z",
+            "open_issues": 5,
             "owner": "LiveUI",
             "repo": "MailCore",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "mailcore",
+              "mailgun",
+              "sendgrid",
+              "smtp",
+              "swift",
+              "vapor",
+              "vapor-3"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -170,12 +289,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📧 SendGrid-powered mail backend for Vapor",
+            "homepage": "https://swiftpackageindex.com/vapor-community/sendgrid",
             "id": 80089108,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-02-01T15:58:39Z",
+            "open_issues": 2,
             "owner": "vapor-community",
             "repo": "sendgrid",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "email",
+              "sendgrid",
+              "server-side-swift",
+              "swift",
+              "swift-linux",
+              "swift-package",
+              "swift-package-manager",
+              "vapor",
+              "vapor-provider",
+              "vapor-service"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -186,12 +321,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rate limiting middleware for Vapor 👮",
+            "homepage": null,
             "id": 80074248,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-09-03T08:35:36Z",
+            "open_issues": 1,
             "owner": "ml-archive",
             "repo": "gatekeeper",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "rate-limiting",
+              "rate-limits",
+              "server-side-swift",
+              "swift",
+              "tose",
+              "vapor",
+              "vapor-3"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -202,12 +350,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vapor Firebase Realtime database provider",
+            "homepage": null,
             "id": 131674300,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-10-25T01:22:04Z",
+            "open_issues": 2,
             "owner": "vapor-community",
             "repo": "ferno",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "firebase",
+              "swift",
+              "vapor",
+              "vapor-3",
+              "vapor-4"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -218,12 +377,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rails-inspired extension to Vapor's routing system",
+            "homepage": null,
             "id": 150809788,
             "language": "Swift",
+            "license": null,
             "last_commit": "2021-11-27T01:08:18Z",
+            "open_issues": 1,
             "owner": "twof",
             "repo": "VaporCRUDRouter",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "rails",
+              "routing",
+              "swift",
+              "vapor",
+              "vapor-4",
+              "vapor-swift",
+              "vapor4"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -234,12 +406,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Offset pagination for Vapor 🗂",
+            "homepage": null,
             "id": 77190206,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-04-24T08:26:29Z",
+            "open_issues": 1,
             "owner": "ml-archive",
             "repo": "paginator",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "fluent",
+              "paginator",
+              "server-side-swift",
+              "sikk",
+              "swift",
+              "vapor",
+              "vapor-2"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -250,12 +435,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serve up custom 404 and server error pages for your Vapor App",
+            "homepage": null,
             "id": 104588421,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-07-25T14:40:36Z",
+            "open_issues": 0,
             "owner": "brokenhandsio",
             "repo": "leaf-error-middleware",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "brokenhands",
+              "leaf",
+              "server-side-swift",
+              "swift",
+              "swift4",
+              "vapor"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -266,12 +463,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Vapor 3 Pagination",
+            "homepage": null,
             "id": 128463254,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-02-25T18:53:12Z",
+            "open_issues": 6,
             "owner": "vapor-community",
             "repo": "pagination",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "fluent",
+              "swift-4",
+              "vapor",
+              "vapor-3"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -282,12 +489,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Eases the use of multiple storage and CDN services 🗄",
+            "homepage": null,
             "id": 73427509,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-10-08T09:45:36Z",
+            "open_issues": 2,
             "owner": "ml-archive",
             "repo": "storage",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "brto",
+              "server-side-swift",
+              "storage",
+              "swift",
+              "upload",
+              "vapor",
+              "vapor-2"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -298,12 +518,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MongoDB object persistence for Swift",
+            "homepage": null,
             "id": 78011987,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-01-02T21:20:43Z",
+            "open_issues": 9,
             "owner": "OpenKitten",
             "repo": "Meow",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -314,12 +539,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown renderer for Vapor",
+            "homepage": null,
             "id": 66947019,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-28T18:07:33Z",
+            "open_issues": 0,
             "owner": "vapor-community",
             "repo": "leaf-markdown",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "vapor",
+              "vapor-2",
+              "vapor-provider"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -330,12 +564,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vapor APNS for iOS",
+            "homepage": null,
             "id": 127682280,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-06-05T23:02:49Z",
+            "open_issues": 0,
             "owner": "vapor-community",
             "repo": "apns",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "apns-http2",
+              "push-notifications",
+              "vapor",
+              "vapor-3",
+              "vapor-service"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -346,12 +591,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vapor provider for Lingo - the Swift localization library",
+            "homepage": null,
             "id": 101421643,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-10-29T11:56:53Z",
+            "open_issues": 1,
             "owner": "vapor-community",
             "repo": "Lingo-Vapor",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "localization",
+              "server",
+              "swift",
+              "vapor",
+              "vapor-provider"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -362,12 +618,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access GoogleCloud APIs using Vapor",
+            "homepage": null,
             "id": 133913088,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-06-18T16:31:20Z",
+            "open_issues": 1,
             "owner": "vapor-community",
             "repo": "google-cloud",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "cloud-platform",
+              "cloud-storage",
+              "google-cloud",
+              "swift",
+              "vapor",
+              "vapor-3",
+              "vapor-4",
+              "vapor-service"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -378,12 +648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package to add protection to Vapor against CSRF attacks.",
+            "homepage": null,
             "id": 94946694,
             "language": "Swift",
+            "license": null,
             "last_commit": "2022-12-23T13:00:09Z",
+            "open_issues": 2,
             "owner": "vapor-community",
             "repo": "CSRF",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -394,12 +669,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easily scaffold a keychain using JWT for Vapor ⛓",
+            "homepage": null,
             "id": 77539274,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-11-08T13:14:03Z",
+            "open_issues": 6,
             "owner": "ml-archive",
             "repo": "keychain",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "jwt",
+              "keychain",
+              "server-side-swift",
+              "sikk",
+              "swift",
+              "user-management",
+              "vapor",
+              "vapor-2"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -410,12 +699,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Report errors with Bugsnag 🐛",
+            "homepage": null,
             "id": 74880071,
             "language": "Swift",
+            "license": null,
             "last_commit": "2023-01-31T20:12:38Z",
+            "open_issues": 1,
             "owner": "ml-archive",
             "repo": "bugsnag",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "error-handling",
+              "server-side-swift",
+              "stso",
+              "swift",
+              "vapor",
+              "vapor-2"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -426,12 +727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 PDF render for Swift and Vapor 3.",
+            "homepage": null,
             "id": 137555278,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-06-07T20:52:31Z",
+            "open_issues": 3,
             "owner": "MihaelIsaev",
             "repo": "wkhtmltopdf",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -442,12 +748,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Flash messages between views ⚡️",
+            "homepage": null,
             "id": 78045244,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-09-02T08:33:56Z",
+            "open_issues": 6,
             "owner": "ml-archive",
             "repo": "flash",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "brto",
+              "flash",
+              "flash-messages",
+              "server-side-swift",
+              "swift",
+              "vapor",
+              "vapor-2",
+              "vapor-3"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -458,12 +778,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Middleware to Authenticate and Authorize Requests in Vapor",
+            "homepage": null,
             "id": 130247966,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-10-20T18:16:31Z",
+            "open_issues": 3,
             "owner": "skelpo",
             "repo": "JWTMiddleware",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "authentication",
+              "hacktoberfest",
+              "jwt",
+              "swift",
+              "vapor"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -474,12 +805,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚙️ A collection of Swift extensions for wide range of Vapor data types and classes",
+            "homepage": null,
             "id": 142723598,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-05-06T19:02:15Z",
+            "open_issues": 1,
             "owner": "vapor-community",
             "repo": "vapor-ext",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "serverside-swift",
+              "swift",
+              "vapor"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -490,12 +830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vapor middleware for converting thrown errors to JSON responses",
+            "homepage": null,
             "id": 130408931,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-07-24T09:18:51Z",
+            "open_issues": 1,
             "owner": "skelpo",
             "repo": "APIErrorMiddleware",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -506,12 +851,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make testing Vapor 3 apps easy",
+            "homepage": null,
             "id": 123197413,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-12-20T14:18:21Z",
+            "open_issues": 1,
             "owner": "LiveUI",
             "repo": "VaporTestTools",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "server-side-swift",
+              "swift",
+              "testing",
+              "vapor",
+              "vapor-3"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -522,12 +878,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework https://swiftybeaver.com",
+            "homepage": null,
             "id": 91718440,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-10-15T20:08:48Z",
+            "open_issues": 1,
             "owner": "vapor-community",
             "repo": "swiftybeaver-provider",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "logging",
+              "swift-3",
+              "swiftybeaver",
+              "vapor"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -538,12 +904,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple CSV file parser and serializer",
+            "homepage": "http://www.skelpo.codes/CSV/",
             "id": 117293014,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-10-20T18:33:54Z",
+            "open_issues": 4,
             "owner": "skelpo",
             "repo": "CSV",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "async",
+              "csv",
+              "csv-data",
+              "hacktoberfest",
+              "parser",
+              "serializer",
+              "spm",
+              "streaming",
+              "swift",
+              "swift-package-manager",
+              "sync"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -554,12 +937,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A package of sugar for Vapor 🍬",
+            "homepage": null,
             "id": 77596901,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-02-25T12:30:21Z",
+            "open_issues": 2,
             "owner": "ml-archive",
             "repo": "sugar",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "server-side-swift",
+              "sikk",
+              "sugar",
+              "swift",
+              "vapor",
+              "vapor-2"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -570,12 +965,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CouchDB client in Swift",
+            "homepage": null,
             "id": 174106644,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:49:09Z",
+            "open_issues": 0,
             "owner": "makoni",
             "repo": "couchdb-swift",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -586,12 +986,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 A Swift Vapor provider for simple file logging on Vapor sites ",
+            "homepage": null,
             "id": 147949672,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-03-28T18:45:09Z",
+            "open_issues": 0,
             "owner": "hallee",
             "repo": "vapor-simple-file-logger",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "file",
+              "logger",
+              "logging",
+              "server-side-swift",
+              "swift",
+              "vapor",
+              "vapor-provider",
+              "vapor-service"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -602,12 +1016,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Powerful model extraction from Vapor JSON requests",
+            "homepage": null,
             "id": 105166704,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-02-11T18:12:14Z",
+            "open_issues": 2,
             "owner": "gperdomor",
             "repo": "sanitize",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "swift",
+              "vapor"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -618,12 +1040,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Convenience for sluggifying your strings.",
+            "homepage": null,
             "id": 77170220,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-12-09T08:32:25Z",
+            "open_issues": 3,
             "owner": "ml-archive",
             "repo": "slugify",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "joci",
+              "server-side-swift",
+              "slug",
+              "slugify",
+              "swift",
+              "vapor",
+              "vapor-2"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -634,12 +1069,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vapor 3 library for validating Google reCAPTCHA submissions",
+            "homepage": null,
             "id": 131501196,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-05-08T00:34:29Z",
+            "open_issues": 0,
             "owner": "gotranseo",
             "repo": "vapor-recaptcha",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "google",
+              "recaptcha",
+              "swift",
+              "swift-on-server",
+              "vapor-provider",
+              "vapor3"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -650,12 +1097,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Provides a common structure to deal with data based API requests",
+            "homepage": null,
             "id": 134822820,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-09-02T08:52:22Z",
+            "open_issues": 10,
             "owner": "ml-archive",
             "repo": "submissions",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "validation",
+              "vapor",
+              "vapor-3",
+              "vapor-4"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -666,12 +1123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XMLEncoder & XMLDecoder using the Codable protocol in Swift 4.2",
+            "homepage": null,
             "id": 132657635,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-08-25T11:16:16Z",
+            "open_issues": 2,
             "owner": "LiveUI",
             "repo": "XMLCoding",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -682,12 +1144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 130749594,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-05-10T01:17:24Z",
+            "open_issues": 0,
             "owner": "anthonycastelli",
             "repo": "s3-storage",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -698,12 +1165,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Telesign provider for Vapor.",
+            "homepage": null,
             "id": 98349388,
             "language": "Swift",
+            "license": null,
             "last_commit": "2026-03-07T11:30:49Z",
+            "open_issues": 2,
             "owner": "vapor-community",
             "repo": "telesign-provider",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "sms",
+              "swift",
+              "telesign-provider",
+              "vapor",
+              "vapor-service"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -714,12 +1192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 129775250,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-05-09T21:54:07Z",
+            "open_issues": 0,
             "owner": "skelpo",
             "repo": "vapor-request-storage",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -730,12 +1213,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Storage driver using Local filesystem for Vapor 3",
+            "homepage": null,
             "id": 129815209,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-05-11T02:07:33Z",
+            "open_issues": 1,
             "owner": "gperdomor",
             "repo": "local-storage",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "server-side-swift",
+              "storage",
+              "storage-kit",
+              "swift",
+              "vapor",
+              "vapor-service"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         }
@@ -752,12 +1247,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meta-programming for Swift, stop writing boilerplate code.",
+            "homepage": "http://merowing.info",
             "id": 76171100,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-11T10:26:55Z",
+            "open_issues": 94,
             "owner": "krzysztofzablocki",
             "repo": "Sourcery",
-            "stars": 8018
+            "stars": 8018,
+            "topics": [
+              "code-generation",
+              "codegen",
+              "codegenerator",
+              "ios",
+              "metaprogramming",
+              "swift",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -768,12 +1276,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❄️ A developer friendly package manager for Swift; 100% compatible with Swift Package Manager",
+            "homepage": null,
             "id": 102137071,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-05-31T04:25:00Z",
+            "open_issues": 3,
             "owner": "jakeheis",
             "repo": "Ice",
-            "stars": 386
+            "stars": 386,
+            "topics": [
+              "package-manager",
+              "swift-package-manager"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -784,12 +1300,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Command-Line Interface for the Swift Package Manager",
+            "homepage": null,
             "id": 92339567,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-12-01T23:05:17Z",
+            "open_issues": 6,
             "owner": "Ether-CLI",
             "repo": "Ether",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "cli",
+              "command-line-interface",
+              "command-line-tool",
+              "ether",
+              "homebrew",
+              "spm",
+              "swift",
+              "swift-package-manager"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -800,12 +1330,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sublimate: Ridiculously fast full stack Swift prototyping with Vapor and Sourcery.",
+            "homepage": "http://www.gabrielepalma.it",
             "id": 165563149,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-01-29T23:34:03Z",
+            "open_issues": 0,
             "owner": "gabrielepalma",
             "repo": "sublimate",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "prototyping",
+              "sourcery",
+              "synchronization",
+              "vapor",
+              "vapor-3",
+              "vapor3"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -816,12 +1358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS app to manage carthage, cocoapods, derived data and swift package manager",
+            "homepage": null,
             "id": 128369854,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-04-06T12:25:09Z",
+            "open_issues": 0,
             "owner": "LiveUI",
             "repo": "Swifter",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -832,12 +1379,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 99970149,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-02-13T12:43:00Z",
+            "open_issues": 0,
             "owner": "vzsg",
             "repo": "heroku-buildpack-curl-http2",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "curl",
+              "heroku-buildpack",
+              "http2"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         }
@@ -854,12 +1410,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Blogging Engine and Platform written in Swift for use with the Vapor Framework",
+            "homepage": null,
             "id": 78314843,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-12-03T10:56:22Z",
+            "open_issues": 1,
             "owner": "brokenhandsio",
             "repo": "SteamPress",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "blog-engine",
+              "blog-platform",
+              "brokenhands",
+              "leaf",
+              "server-side-swift",
+              "swift",
+              "swift-3",
+              "swift-framework",
+              "vapor",
+              "vapor-provider"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         },
@@ -870,12 +1442,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small, useful user manager made for production application setups.",
+            "homepage": "https://www.skelpo.com",
             "id": 131291948,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-07-30T17:29:18Z",
+            "open_issues": 2,
             "owner": "skelpo",
             "repo": "UserManager",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "microservice",
+              "swift",
+              "user",
+              "vapor",
+              "vapor-3"
+            ]
           },
           "first_seen": "2026-08-28T18:57:08.337Z"
         }
@@ -884,15 +1467,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:57:08.337Z",
+    "last_updated": "2026-08-29T04:31:52.646Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Vapor-related awesome projects.",
+      "homepage": null,
       "id": 121792056,
       "language": "Ruby",
+      "license": "CC0-1.0",
       "last_commit": "2023-10-14T17:45:31Z",
+      "open_issues": 8,
       "owner": "vapor-community",
       "repo": "awesome-vapor",
-      "stars": 1286
+      "stars": 1286,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "server-side-swift",
+        "swift",
+        "vapor"
+      ]
     },
     "original_repository_sha": "d20ec5773e66768d87688257eab6d0620cf3663b",
     "enhanced_repository": "enhansome/enhansome-vapor",
