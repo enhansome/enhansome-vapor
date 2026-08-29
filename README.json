@@ -45,7 +45,7 @@
             "id": 161410190,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:18:33Z",
+            "last_commit": "2026-08-29T09:38:59Z",
             "open_issues": 6,
             "owner": "SwifQL",
             "repo": "SwifQL",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:52.646Z",
+    "last_updated": "2026-08-29T12:48:07.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
