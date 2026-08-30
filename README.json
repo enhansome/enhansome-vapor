@@ -45,7 +45,7 @@
             "id": 161410190,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-08-29T09:38:59Z",
+            "last_commit": "2026-08-30T00:43:31Z",
             "open_issues": 6,
             "owner": "SwifQL",
             "repo": "SwifQL",
@@ -444,7 +444,7 @@
             "open_issues": 0,
             "owner": "brokenhandsio",
             "repo": "leaf-error-middleware",
-            "stars": 68,
+            "stars": 67,
             "topics": [
               "brokenhands",
               "leaf",
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "vapor-community",
             "repo": "leaf-markdown",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "vapor",
               "vapor-2",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:48:07.025Z",
+    "last_updated": "2026-08-30T12:09:27.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
@@ -1479,7 +1479,7 @@
       "open_issues": 8,
       "owner": "vapor-community",
       "repo": "awesome-vapor",
-      "stars": 1286,
+      "stars": 1285,
       "topics": [
         "awesome",
         "awesome-list",
