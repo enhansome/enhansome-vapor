@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "orlandos-nl",
             "repo": "MongoKitten",
-            "stars": 754,
+            "stars": 755,
             "topics": [
               "database",
               "mongodb",
@@ -444,7 +444,7 @@
             "open_issues": 0,
             "owner": "brokenhandsio",
             "repo": "leaf-error-middleware",
-            "stars": 67,
+            "stars": 66,
             "topics": [
               "brokenhands",
               "leaf",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:09:27.889Z",
+    "last_updated": "2026-08-31T14:19:38.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
