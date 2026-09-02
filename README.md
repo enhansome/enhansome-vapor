@@ -30,7 +30,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 ## Libraries
 
 * ![v3](img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 755 | 🐛 24 | 🌐 Swift | 📅 2026-05-20 – MongoDB driver in Swift.
-* ![v3](img/vapor-3.png) [SwifQL](https://github.com/MihaelIsaev/SwifQL) ⭐ 300 | 🐛 6 | 🌐 Swift | 📅 2026-08-30 – Easily build flexible and type-safe SQL with pure Swift.
+* ![v3](img/vapor-3.png) [SwifQL](https://github.com/MihaelIsaev/SwifQL) ⭐ 300 | 🐛 6 | 🌐 Swift | 📅 2026-09-02 – Easily build flexible and type-safe SQL with pure Swift.
 * ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) ⭐ 194 | 🐛 17 | 🌐 Swift | 📅 2025-10-10 – Federated Authentication with OAuth providers.
 * ![v3](img/vapor-3.png) [Stripe Provider](https://github.com/vapor-community/stripe-provider) ⭐ 185 | 🐛 1 | 🌐 Swift | 📅 2023-08-21 – Stripe Provider for Vapor.
 * ![v3](img/vapor-3.png) [Vapor Security Headers](https://github.com/brokenhandsio/VaporSecurityHeaders) ⭐ 154 | 🐛 0 | 🌐 Swift | 📅 2024-11-03 – Harden Your Security Headers For Vapor.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
