@@ -44,7 +44,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 * ![v3](img/vapor-3.png) [Ferno](https://github.com/vapor-community/ferno) ⭐ 72 | 🐛 2 | 🌐 Swift | 📅 2023-10-25 – Vapor Firebase Realtime database provider.
 * ![v3](img/vapor-3.png) [CrudRouter](https://github.com/twof/VaporCRUDRouter) ⭐ 71 | 🐛 1 | 🌐 Swift | 📅 2021-11-27 – Automatic RESTful CRUD router generation for any Fluent Model.
 * ![v3](img/vapor-3.png) [Paginator](https://github.com/nodes-vapor/paginator) ⚠️ Archived – Query pagination for Vapor and Fluent.
-* ![v3](img/vapor-3.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) ⭐ 66 | 🐛 0 | 🌐 Swift | 📅 2022-07-25 – Serve up custom 404 and server error pages for your Vapor App.
+* ![v3](img/vapor-3.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) ⭐ 67 | 🐛 0 | 🌐 Swift | 📅 2022-07-25 – Serve up custom 404 and server error pages for your Vapor App.
 * ![v3](img/vapor-3.png) [Pagination](https://github.com/vapor-community/pagination) ⭐ 66 | 🐛 6 | 🌐 Swift | 📅 2019-02-25 – Simple Vapor 3 Pagination.
 * ![v3](img/vapor-3.png) [Storage](https://github.com/nodes-vapor/storage) ⚠️ Archived – Eases the use of multiple storage and CDN services.
 * ![v3](img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) ⚠️ Archived – An alternative codable ORM for MongoDB.
@@ -78,7 +78,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 
 ## Tools
 
-* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,017 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,020 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
 * [Ice](https://github.com/jakeheis/Ice) ⭐ 386 | 🐛 3 | 🌐 Swift | 📅 2021-05-31 – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 * [Ether](https://github.com/Ether-CLI/Ether) ⭐ 95 | 🐛 6 | 🌐 Swift | 📅 2018-12-01 – A Command-Line Interface for the Swift Package Manager.
 * ![v3](img/vapor-3.png) [Sublimate](https://github.com/gabrielepalma/sublimate) ⭐ 64 | 🐛 0 | 🌐 Swift | 📅 2019-01-29 – Fast prototyping with synchronization and authentication based on Sourcery.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
