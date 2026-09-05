@@ -193,7 +193,7 @@
             "open_issues": 10,
             "owner": "vapor-community",
             "repo": "mailgun",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "email",
               "mailgun",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:38:00.339Z",
+    "last_updated": "2026-09-05T10:52:07.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
@@ -1479,7 +1479,7 @@
       "open_issues": 8,
       "owner": "vapor-community",
       "repo": "awesome-vapor",
-      "stars": 1285,
+      "stars": 1284,
       "topics": [
         "awesome",
         "awesome-list",
