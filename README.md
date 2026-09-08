@@ -31,7 +31,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 
 * ![v3](img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 755 | 🐛 24 | 🌐 Swift | 📅 2026-05-20 – MongoDB driver in Swift.
 * ![v3](img/vapor-3.png) [SwifQL](https://github.com/MihaelIsaev/SwifQL) ⭐ 300 | 🐛 6 | 🌐 Swift | 📅 2026-09-05 – Easily build flexible and type-safe SQL with pure Swift.
-* ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) ⭐ 194 | 🐛 17 | 🌐 Swift | 📅 2025-10-10 – Federated Authentication with OAuth providers.
+* ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) ⭐ 193 | 🐛 17 | 🌐 Swift | 📅 2025-10-10 – Federated Authentication with OAuth providers.
 * ![v3](img/vapor-3.png) [Stripe Provider](https://github.com/vapor-community/stripe-provider) ⭐ 185 | 🐛 1 | 🌐 Swift | 📅 2023-08-21 – Stripe Provider for Vapor.
 * ![v3](img/vapor-3.png) [Vapor Security Headers](https://github.com/brokenhandsio/VaporSecurityHeaders) ⭐ 154 | 🐛 0 | 🌐 Swift | 📅 2024-11-03 – Harden Your Security Headers For Vapor.
 * ![v3](img/vapor-3.png) [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) ⭐ 148 | 🐛 3 | 🌐 Swift | 📅 2020-03-21 – Build complex raw SQL queries while still using Swift keypaths.
@@ -78,7 +78,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 
 ## Tools
 
-* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,021 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,020 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
 * [Ice](https://github.com/jakeheis/Ice) ⭐ 386 | 🐛 3 | 🌐 Swift | 📅 2021-05-31 – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 * [Ether](https://github.com/Ether-CLI/Ether) ⭐ 95 | 🐛 6 | 🌐 Swift | 📅 2018-12-01 – A Command-Line Interface for the Swift Package Manager.
 * ![v3](img/vapor-3.png) [Sublimate](https://github.com/gabrielepalma/sublimate) ⭐ 64 | 🐛 0 | 🌐 Swift | 📅 2019-01-29 – Fast prototyping with synchronization and authentication based on Sourcery.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
