@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:00:58.179Z",
+    "last_updated": "2026-09-16T11:57:12.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
@@ -1479,7 +1479,7 @@
       "open_issues": 8,
       "owner": "vapor-community",
       "repo": "awesome-vapor",
-      "stars": 1283,
+      "stars": 1284,
       "topics": [
         "awesome",
         "awesome-list",
