@@ -330,7 +330,7 @@
             "open_issues": 1,
             "owner": "ml-archive",
             "repo": "gatekeeper",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "rate-limiting",
               "rate-limits",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T11:59:12.559Z",
+    "last_updated": "2026-09-23T12:00:16.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
