@@ -25,13 +25,13 @@
 
 ## How to use
 
-Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md) ⭐ 1,284 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14 or only to [Vapor 4](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md) ⭐ 1,284 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14, you may use the automatically generated filtered lists available on the `filtered` branch by visiting the links in this sentence. You may also find the legacy archived content in the `legacy` folder.
+Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md) ⭐ 1,285 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14 or only to [Vapor 4](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md) ⭐ 1,285 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14, you may use the automatically generated filtered lists available on the `filtered` branch by visiting the links in this sentence. You may also find the legacy archived content in the `legacy` folder.
 
 ## Libraries
 
 * ![v3](img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 755 | 🐛 25 | 🌐 Swift | 📅 2026-05-20 – MongoDB driver in Swift.
 * ![v3](img/vapor-3.png) [SwifQL](https://github.com/MihaelIsaev/SwifQL) ⭐ 300 | 🐛 6 | 🌐 Swift | 📅 2026-09-19 – Easily build flexible and type-safe SQL with pure Swift.
-* ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) ⭐ 193 | 🐛 17 | 🌐 Swift | 📅 2025-10-10 – Federated Authentication with OAuth providers.
+* ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) ⭐ 194 | 🐛 17 | 🌐 Swift | 📅 2025-10-10 – Federated Authentication with OAuth providers.
 * ![v3](img/vapor-3.png) [Stripe Provider](https://github.com/vapor-community/stripe-provider) ⭐ 185 | 🐛 1 | 🌐 Swift | 📅 2023-08-21 – Stripe Provider for Vapor.
 * ![v3](img/vapor-3.png) [Vapor Security Headers](https://github.com/brokenhandsio/VaporSecurityHeaders) ⭐ 154 | 🐛 0 | 🌐 Swift | 📅 2024-11-03 – Harden Your Security Headers For Vapor.
 * ![v3](img/vapor-3.png) [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) ⭐ 148 | 🐛 3 | 🌐 Swift | 📅 2020-03-21 – Build complex raw SQL queries while still using Swift keypaths.
@@ -41,7 +41,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 * ![v3](img/vapor-3.png) [MailCore](https://github.com/LiveUI/MailCore) ⭐ 85 | 🐛 5 | 🌐 Swift | 📅 2022-01-06 – Sending e-mails via SMTP, MailGun and SendGrid.
 * ![v3](img/vapor-3.png) [SendGrid Provider](https://github.com/vapor-community/sendgrid-provider) ⭐ 78 | 🐛 2 | 🌐 Swift | 📅 2025-02-01 – SendGrid-powered mail backend for Vapor.
 * ![v3](img/vapor-3.png) [Gatekeeper](https://github.com/nodes-vapor/gatekeeper) ⚠️ Archived – Rate limiting middleware for Vapor.
-* ![v3](img/vapor-3.png) [Ferno](https://github.com/vapor-community/ferno) ⭐ 72 | 🐛 2 | 🌐 Swift | 📅 2023-10-25 – Vapor Firebase Realtime database provider.
+* ![v3](img/vapor-3.png) [Ferno](https://github.com/vapor-community/ferno) ⭐ 73 | 🐛 2 | 🌐 Swift | 📅 2023-10-25 – Vapor Firebase Realtime database provider.
 * ![v3](img/vapor-3.png) [CrudRouter](https://github.com/twof/VaporCRUDRouter) ⭐ 71 | 🐛 1 | 🌐 Swift | 📅 2021-11-27 – Automatic RESTful CRUD router generation for any Fluent Model.
 * ![v3](img/vapor-3.png) [Paginator](https://github.com/nodes-vapor/paginator) ⚠️ Archived – Query pagination for Vapor and Fluent.
 * ![v3](img/vapor-3.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) ⭐ 67 | 🐛 0 | 🌐 Swift | 📅 2022-07-25 – Serve up custom 404 and server error pages for your Vapor App.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

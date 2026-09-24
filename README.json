@@ -76,7 +76,7 @@
             "open_issues": 17,
             "owner": "vapor-community",
             "repo": "Imperial",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "federated-identity",
               "federated-social-web",
@@ -359,7 +359,7 @@
             "open_issues": 2,
             "owner": "vapor-community",
             "repo": "ferno",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "firebase",
               "swift",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:00:16.068Z",
+    "last_updated": "2026-09-24T12:06:16.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
@@ -1479,7 +1479,7 @@
       "open_issues": 8,
       "owner": "vapor-community",
       "repo": "awesome-vapor",
-      "stars": 1284,
+      "stars": 1285,
       "topics": [
         "awesome",
         "awesome-list",
