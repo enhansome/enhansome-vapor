@@ -25,7 +25,7 @@
 
 ## How to use
 
-Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md) ⭐ 1,286 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14 or only to [Vapor 4](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md) ⭐ 1,286 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14, you may use the automatically generated filtered lists available on the `filtered` branch by visiting the links in this sentence. You may also find the legacy archived content in the `legacy` folder.
+Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md) ⭐ 1,287 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14 or only to [Vapor 4](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md) ⭐ 1,287 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14, you may use the automatically generated filtered lists available on the `filtered` branch by visiting the links in this sentence. You may also find the legacy archived content in the `legacy` folder.
 
 ## Libraries
 
@@ -78,8 +78,8 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 
 ## Tools
 
-* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,022 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
-* [Ice](https://github.com/jakeheis/Ice) ⭐ 386 | 🐛 3 | 🌐 Swift | 📅 2021-05-31 – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,023 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
+* [Ice](https://github.com/jakeheis/Ice) ⭐ 387 | 🐛 3 | 🌐 Swift | 📅 2021-05-31 – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 * [Ether](https://github.com/Ether-CLI/Ether) ⭐ 95 | 🐛 6 | 🌐 Swift | 📅 2018-12-01 – A Command-Line Interface for the Swift Package Manager.
 * ![v3](img/vapor-3.png) [Sublimate](https://github.com/gabrielepalma/sublimate) ⭐ 64 | 🐛 0 | 🌐 Swift | 📅 2019-01-29 – Fast prototyping with synchronization and authentication based on Sourcery.
 * [Swifter](https://github.com/LiveUI/Swifter) ⭐ 44 | 🐛 0 | 🌐 Swift | 📅 2018-04-06 – A macOS tool to help you manage your Xcode projects and give you a quick access to DerivedData folder cleaning and management.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
