@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "brokenhandsio",
             "repo": "VaporSecurityHeaders",
-            "stars": 154,
+            "stars": 153,
             "topics": [
               "brokenhands",
               "security",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T12:55:25.696Z",
+    "last_updated": "2026-10-01T13:46:58.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
