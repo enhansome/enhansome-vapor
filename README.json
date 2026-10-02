@@ -244,7 +244,7 @@
             "open_issues": 0,
             "owner": "Jinxiansen",
             "repo": "Guardian",
-            "stars": 89,
+            "stars": 88,
             "topics": [
               "middleware",
               "vapor",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:46:58.440Z",
+    "last_updated": "2026-10-02T13:03:37.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
