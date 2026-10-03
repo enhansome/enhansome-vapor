@@ -25,7 +25,7 @@
 
 ## How to use
 
-Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md) ⭐ 1,287 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14 or only to [Vapor 4](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md) ⭐ 1,287 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14, you may use the automatically generated filtered lists available on the `filtered` branch by visiting the links in this sentence. You may also find the legacy archived content in the `legacy` folder.
+Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you’re only interested in entries related to [Vapor 3](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-3.md) ⭐ 1,286 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14 or only to [Vapor 4](https://github.com/Cellane/awesome-vapor/blob/filtered/vapor-4.md) ⭐ 1,286 | 🐛 8 | 🌐 Ruby | 📅 2023-10-14, you may use the automatically generated filtered lists available on the `filtered` branch by visiting the links in this sentence. You may also find the legacy archived content in the `legacy` folder.
 
 ## Libraries
 
@@ -78,7 +78,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 
 ## Tools
 
-* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,023 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,022 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
 * [Ice](https://github.com/jakeheis/Ice) ⭐ 387 | 🐛 3 | 🌐 Swift | 📅 2021-05-31 – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 * [Ether](https://github.com/Ether-CLI/Ether) ⭐ 95 | 🐛 6 | 🌐 Swift | 📅 2018-12-01 – A Command-Line Interface for the Swift Package Manager.
 * ![v3](img/vapor-3.png) [Sublimate](https://github.com/gabrielepalma/sublimate) ⭐ 64 | 🐛 0 | 🌐 Swift | 📅 2019-01-29 – Fast prototyping with synchronization and authentication based on Sourcery.
@@ -119,7 +119,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 
 ## Open-source Projects
 
-* ![v3](img/vapor-3.png) [SteamPress](https://github.com/brokenhandsio/SteamPress) ⭐ 378 | 🐛 1 | 🌐 Swift | 📅 2022-12-03 – A Blogging Engine and Platform written in Swift for use with the Vapor Framework.
+* ![v3](img/vapor-3.png) [SteamPress](https://github.com/brokenhandsio/SteamPress) ⭐ 377 | 🐛 1 | 🌐 Swift | 📅 2022-12-03 – A Blogging Engine and Platform written in Swift for use with the Vapor Framework.
 * ![v3](img/vapor-3.png) [User Manager Service](https://github.com/skelpo/UserManager) ⭐ 88 | 🐛 2 | 🌐 Swift | 📅 2019-07-30 – A small, useful user manager made for production application setups.
 
 ## License
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

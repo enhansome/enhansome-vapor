@@ -1256,7 +1256,7 @@
             "open_issues": 94,
             "owner": "krzysztofzablocki",
             "repo": "Sourcery",
-            "stars": 8023,
+            "stars": 8022,
             "topics": [
               "code-generation",
               "codegen",
@@ -1375,7 +1375,7 @@
         {
           "node_type": "item",
           "title": "Heroku buildpack: curl with HTTP/2 support",
-          "description": null,
+          "description": "vzsg/heroku-buildpack-curl-http2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1419,7 +1419,7 @@
             "open_issues": 1,
             "owner": "brokenhandsio",
             "repo": "SteamPress",
-            "stars": 378,
+            "stars": 377,
             "topics": [
               "blog-engine",
               "blog-platform",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:03:37.145Z",
+    "last_updated": "2026-10-03T05:13:23.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
@@ -1479,7 +1479,7 @@
       "open_issues": 8,
       "owner": "vapor-community",
       "repo": "awesome-vapor",
-      "stars": 1287,
+      "stars": 1286,
       "topics": [
         "awesome",
         "awesome-list",
