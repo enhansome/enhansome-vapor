@@ -78,7 +78,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 
 ## Tools
 
-* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,022 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,023 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
 * [Ice](https://github.com/jakeheis/Ice) ⭐ 387 | 🐛 3 | 🌐 Swift | 📅 2021-05-31 – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 * [Ether](https://github.com/Ether-CLI/Ether) ⭐ 95 | 🐛 6 | 🌐 Swift | 📅 2018-12-01 – A Command-Line Interface for the Swift Package Manager.
 * ![v3](img/vapor-3.png) [Sublimate](https://github.com/gabrielepalma/sublimate) ⭐ 64 | 🐛 0 | 🌐 Swift | 📅 2019-01-29 – Fast prototyping with synchronization and authentication based on Sourcery.

@@ -1256,7 +1256,7 @@
             "open_issues": 94,
             "owner": "krzysztofzablocki",
             "repo": "Sourcery",
-            "stars": 8022,
+            "stars": 8023,
             "topics": [
               "code-generation",
               "codegen",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:13:23.933Z",
+    "last_updated": "2026-10-03T11:56:26.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
