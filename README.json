@@ -45,7 +45,7 @@
             "id": 161410190,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-06T00:41:07Z",
+            "last_commit": "2026-10-06T13:09:01Z",
             "open_issues": 6,
             "owner": "swiftstream",
             "repo": "SQL",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:57:50.838Z",
+    "last_updated": "2026-10-06T13:32:15.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
