@@ -48,7 +48,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 * ![v3](img/vapor-3.png) [Pagination](https://github.com/vapor-community/pagination) ⭐ 66 | 🐛 6 | 🌐 Swift | 📅 2019-02-25 – Simple Vapor 3 Pagination.
 * ![v3](img/vapor-3.png) [Storage](https://github.com/nodes-vapor/storage) ⚠️ Archived – Eases the use of multiple storage and CDN services.
 * ![v3](img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) ⚠️ Archived – An alternative codable ORM for MongoDB.
-* ![v3](img/vapor-3.png) [Leaf Markdown](https://github.com/vapor-community/leaf-markdown) ⭐ 63 | 🐛 0 | 🌐 Swift | 📅 2026-07-28 – Markdown renderer for Vapor.
+* ![v3](img/vapor-3.png) [Leaf Markdown](https://github.com/vapor-community/leaf-markdown) ⭐ 63 | 🐛 1 | 🌐 Swift | 📅 2026-07-28 – Markdown renderer for Vapor.
 * ![v3](img/vapor-3.png) [APNS](https://github.com/vapor-community/apns) ⚠️ Archived – Vapor APNS for iOS.
 * ![v3](img/vapor-3.png) [Lingo Vapor](https://github.com/vapor-community/Lingo-Vapor) ⭐ 59 | 🐛 1 | 🌐 Swift | 📅 2022-10-29 – Vapor provider for Lingo – the Swift localization library.
 * ![v3](img/vapor-3.png) [Google Cloud Provider](https://github.com/vapor-community/google-cloud-provider) ⭐ 48 | 🐛 1 | 🌐 Swift | 📅 2024-06-18 – Interact with Google Cloud Platform APIs from your Vapor project.
@@ -78,8 +78,8 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 
 ## Tools
 
-* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,028 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
-* [Ice](https://github.com/jakeheis/Ice) ⭐ 387 | 🐛 3 | 🌐 Swift | 📅 2021-05-31 – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) ⭐ 8,027 | 🐛 94 | 🌐 Swift | 📅 2026-06-11 – Meta-programming for Swift, stop writing boilerplate code.
+* [Ice](https://github.com/jakeheis/Ice) ⭐ 386 | 🐛 3 | 🌐 Swift | 📅 2021-05-31 – A developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 * [Ether](https://github.com/Ether-CLI/Ether) ⭐ 95 | 🐛 6 | 🌐 Swift | 📅 2018-12-01 – A Command-Line Interface for the Swift Package Manager.
 * ![v3](img/vapor-3.png) [Sublimate](https://github.com/gabrielepalma/sublimate) ⭐ 64 | 🐛 0 | 🌐 Swift | 📅 2019-01-29 – Fast prototyping with synchronization and authentication based on Sourcery.
 * [Swifter](https://github.com/LiveUI/Swifter) ⭐ 44 | 🐛 0 | 🌐 Swift | 📅 2018-04-06 – A macOS tool to help you manage your Xcode projects and give you a quick access to DerivedData folder cleaning and management.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

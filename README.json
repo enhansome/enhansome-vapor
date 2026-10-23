@@ -545,7 +545,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-07-28T18:07:33Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "vapor-community",
             "repo": "leaf-markdown",
             "stars": 63,
@@ -1256,7 +1256,7 @@
             "open_issues": 94,
             "owner": "krzysztofzablocki",
             "repo": "Sourcery",
-            "stars": 8028,
+            "stars": 8027,
             "topics": [
               "code-generation",
               "codegen",
@@ -1285,7 +1285,7 @@
             "open_issues": 3,
             "owner": "jakeheis",
             "repo": "Ice",
-            "stars": 387,
+            "stars": 386,
             "topics": [
               "package-manager",
               "swift-package-manager"
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T12:16:28.122Z",
+    "last_updated": "2026-10-23T11:57:56.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
