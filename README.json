@@ -1252,8 +1252,8 @@
             "id": 76171100,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-06-11T10:26:55Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-26T08:01:25Z",
+            "open_issues": 95,
             "owner": "krzysztofzablocki",
             "repo": "Sourcery",
             "stars": 8028,
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T11:55:28.229Z",
+    "last_updated": "2026-10-26T13:27:50.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
@@ -1479,7 +1479,7 @@
       "open_issues": 8,
       "owner": "vapor-community",
       "repo": "awesome-vapor",
-      "stars": 1288,
+      "stars": 1289,
       "topics": [
         "awesome",
         "awesome-list",
