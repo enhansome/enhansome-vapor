@@ -444,7 +444,7 @@
             "open_issues": 0,
             "owner": "brokenhandsio",
             "repo": "leaf-error-middleware",
-            "stars": 69,
+            "stars": 68,
             "topics": [
               "brokenhands",
               "leaf",
@@ -1256,7 +1256,7 @@
             "open_issues": 96,
             "owner": "krzysztofzablocki",
             "repo": "Sourcery",
-            "stars": 8032,
+            "stars": 8031,
             "topics": [
               "code-generation",
               "codegen",
@@ -1419,7 +1419,7 @@
             "open_issues": 1,
             "owner": "brokenhandsio",
             "repo": "SteamPress",
-            "stars": 377,
+            "stars": 376,
             "topics": [
               "blog-engine",
               "blog-platform",
@@ -1467,7 +1467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:59:11.052Z",
+    "last_updated": "2026-11-20T15:41:58.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vapor-related awesome projects.",
