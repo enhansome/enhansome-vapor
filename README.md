@@ -68,7 +68,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 * ![v3](img/vapor-3.png) [SimpleFileLogger](https://github.com/hallee/vapor-simple-file-logger) ⭐ 18 | 🐛 0 | 🌐 Swift | 📅 2020-03-28 – A simple file logging provider for Vapor.
 * ![v3](img/vapor-3.png) [Sanitize](https://github.com/gperdomor/sanitize) ⚠️ Archived – Powerful model extraction from Vapor JSON requests.
 * ![v3](img/vapor-3.png) [Slugify](https://github.com/nodes-vapor/slugify) ⚠️ Archived – Convenience for sluggifying your strings.
-* ![v3](img/vapor-3.png) [Vapor reCAPTCHA](https://github.com/gotranseo/vapor-recaptcha) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2018-05-08 – Validate Google reCAPTCHAs using Vapor.
+* ![v3](img/vapor-3.png) [Vapor reCAPTCHA](https://github.com/gotranseo/vapor-recaptcha) ⚠️ Archived – Validate Google reCAPTCHAs using Vapor.
 * ![v3](img/vapor-3.png) [Submissions](https://github.com/nodes-vapor/submissions) ⚠️ Archived – Conveniences for creating forms and validating (form) submissions.
 * ![v3](img/vapor-3.png) [XMLCoding](https://github.com/LiveUI/XMLCoding) ⭐ 11 | 🐛 2 | 🌐 Swift | 📅 2025-08-25 – XML encoder and decoder.
 * ![v3](img/vapor-3.png) [S3 Storage](https://github.com/anthonycastelli/s3-storage) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2018-05-10 – Library for simple access to the Amazon S3 service.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
