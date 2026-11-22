@@ -48,7 +48,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 * ![v3](img/vapor-3.png) [Pagination](https://github.com/vapor-community/pagination) ⭐ 66 | 🐛 6 | 🌐 Swift | 📅 2019-02-25 – Simple Vapor 3 Pagination.
 * ![v3](img/vapor-3.png) [Storage](https://github.com/nodes-vapor/storage) ⚠️ Archived – Eases the use of multiple storage and CDN services.
 * ![v3](img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) ⚠️ Archived – An alternative codable ORM for MongoDB.
-* ![v3](img/vapor-3.png) [Leaf Markdown](https://github.com/vapor-community/leaf-markdown) ⭐ 63 | 🐛 1 | 🌐 Swift | 📅 2026-07-28 – Markdown renderer for Vapor.
+* ![v3](img/vapor-3.png) [Leaf Markdown](https://github.com/vapor-community/leaf-markdown) ⭐ 63 | 🐛 0 | 🌐 Swift | 📅 2026-07-28 – Markdown renderer for Vapor.
 * ![v3](img/vapor-3.png) [APNS](https://github.com/vapor-community/apns) ⚠️ Archived – Vapor APNS for iOS.
 * ![v3](img/vapor-3.png) [Lingo Vapor](https://github.com/vapor-community/Lingo-Vapor) ⭐ 59 | 🐛 1 | 🌐 Swift | 📅 2022-10-29 – Vapor provider for Lingo – the Swift localization library.
 * ![v3](img/vapor-3.png) [Google Cloud Provider](https://github.com/vapor-community/google-cloud-provider) ⭐ 48 | 🐛 1 | 🌐 Swift | 📅 2024-06-18 – Interact with Google Cloud Platform APIs from your Vapor project.
@@ -130,4 +130,4 @@ To the extent possible under law, *Milan Vit* has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
